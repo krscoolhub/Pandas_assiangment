@@ -1,6 +1,7 @@
 # Pandas_assiangment
 
 Q1. How do you load a CSV file into a Pandas DataFrame?
+
 Ans: pd.raed_csv("FileName.csv")  
 
 Q2. How do you check the data type of a column in a Pandas DataFrame?
